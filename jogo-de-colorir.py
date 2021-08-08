@@ -13,6 +13,7 @@ def locate_xy(event):
     # colorPixel(selected_x, selected_y)
     # print(selected_x, selected_y)
     # image.put(new_color, (selected_x, selected_y))
+    # print(selected_x, selected_y)
     fill(selected_x, selected_y)
 
 
@@ -32,34 +33,31 @@ def fill(x, y):
         if px - 1 >= 0 and image.get(px-1, py) == areaColor and (px-1, py) not in v:
             v.append((px-1, py))
             q.append((px-1, py))
+            image.put(new_color, (px-1, py))
         if px + 1 < w and image.get(px+1, py) == areaColor and (px+1, py) not in v:
             v.append((px+1, py))
             q.append((px+1, py))
+            image.put(new_color, (px+1, py))
         if py - 1 > 0 and image.get(px, py-1) == areaColor and (px, py-1) not in v:
             v.append((px, py-1))
             q.append((px, py-1))
+            image.put(new_color, (px, py-1))
         if py + 1 < w and image.get(px, py+1) == areaColor and (px, py+1) not in v:
             v.append((px, py+1))
             q.append((px, py+1))
-
-    for i in v:
-        image.put(new_color, (i[0], i[1]))
+            image.put(new_color, (px, py+1))
 
 
 new_color = 'red'
 w = 444
-h = 512
+h = 444
 
-# def fill(x, y):
-#     areaColor = image.get(x, y)
-#     q = deque()
-#     q.append((x, y))
 
 selected_x, selected_y = 0, 0
 
 root = Tk()
 
-image = PhotoImage(file="mario.ppm")
+image = PhotoImage(file="pa.ppm")
 
 canvas = Canvas(root, background='white', width=w, height=h)
 canvas.grid(row=0, column=0)
