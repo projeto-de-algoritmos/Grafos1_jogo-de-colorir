@@ -1,19 +1,4 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)\_(NomeDoProjeto). !!**
-
-Temas:
-
-- Grafos1
-- Grafos2
-- PD
-- D&C
-- Greed
-- Final
-
-**!! _Não coloque os nomes dos alunos no título do repositório_. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
-
-(Apague essa seção)
-
-# NomedoProjeto
+# jogo-de-colorir
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
@@ -22,7 +7,7 @@ Temas:
 
 | Matrícula | Aluno           |
 | --------- | --------------- |
-| xx/xxxxxx | xxxx xxxx xxxxx |
+| 19/0011602 | Christian Fleury Alencar Siqueira |
 | xx/xxxxxx | xxxx xxxx xxxxx |
 
 ## Sobre
