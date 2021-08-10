@@ -23,8 +23,6 @@ O projeto consiste em um jogo de colorir, onde o jogador podera colorir um desen
 ## Vídeo
 https://youtu.be/tvMuTni5H98
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
 ## Instalação
 
 **Linguagem**: Python3<br>
@@ -44,4 +42,4 @@ Após isso, escolha uma cor e clique na região em que deseja pintar
 
 ## Outros
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para o funcionamento adequado do programa, favor não tentar pintar o fundo fora do desenho
