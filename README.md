@@ -16,9 +16,9 @@ O projeto consiste em um jogo de colorir, onde o jogador podera colorir um desen
 
 ## Screenshots
 
-<img width="70%" src="https://i.imgur.com/9se1a1D.png" alt="Image1"/>
-<img width="70%" src="https://i.imgur.com/PLwd1w4.png" alt="Image1"/>
-<img width="70%" src="https://i.imgur.com/sIwgDN3.png" alt="Image1"/>
+<img width="30%" src="https://i.imgur.com/9se1a1D.png" alt="Image1"/>
+<img width="30%" src="https://i.imgur.com/PLwd1w4.png" alt="Image1"/>
+<img width="30%" src="https://i.imgur.com/sIwgDN3.png" alt="Image1"/>
 
 ## Vídeo
 https://youtu.be/tvMuTni5H98
