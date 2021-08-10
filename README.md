@@ -15,6 +15,10 @@
 O projeto consiste em um jogo de colorir, onde o jogador podera colorir um desenho em preto e branco, utilizando uma função que pinta todo os espaço dentro de um limite fechado
 
 ## Screenshots
+https://imgur.com/a/P7O2DqS
+https://imgur.com/a/aIkhg9C
+https://imgur.com/a/gUdksfS
+
 
 ## Vídeo
 https://youtu.be/tvMuTni5H98
