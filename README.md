@@ -30,7 +30,7 @@ https://youtu.be/tvMuTni5H98
 
 Primeiramente instale o Python3 no seu computador
 
-Depois instale a bibliotéca Tkinter: <br>
+Depois instale a bibliotéca Tkinter com o seguinte comando: <br>
 ``` sudo apt install python3-tk ```
 
 ## Uso
