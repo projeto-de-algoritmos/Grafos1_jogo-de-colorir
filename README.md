@@ -1,7 +1,7 @@
 # jogo-de-colorir
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 
@@ -30,10 +30,10 @@ Depois instale a bibliotéca Tkinter: <br>
 
 ## Uso
 
-rode dentro da pasta do projeto o seguinte comando: <br>
+Rode dentro da pasta do projeto o seguinte comando: <br>
 ``` python3 jogo-de-colorir.py ``` 
 
-após isso, escolha a cor que desejar e clique na região em que deseja pintar
+Após isso, escolha uma cor e clique na região em que deseja pintar
 
 ## Outros
 
