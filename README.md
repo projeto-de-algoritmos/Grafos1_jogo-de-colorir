@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
+O projeto consiste em um jogo de colorir, onde o jogador podera colorir um desenho em preto e branco, utilizando uma função que pinta todo os espaço dentro de um limite fechado
 
 ## Screenshots
 
@@ -22,11 +22,18 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 **Linguagem**: Python3<br>
 **Framework**: Tkinter<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+Primeiramente instale o Python3 no seu computador
+
+Depois instale a bibliotéca Tkinter:
+``` sudo apt install python3-tk ```
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+rode no dentro da pasta do progeto o comando:
+``` python3 jogo-de-colorir.py ```
+
+após isso, escolha a cor que desejar e clique na região em que deseja pintar
 
 ## Outros
 
